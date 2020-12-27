@@ -155,7 +155,6 @@ s_xmas = Sphere(center=(0.0, 0.0, 2.0), radius=3.0,
 
 
 l1 = Light(position=(-5.0,5.0,5.0), intensity=2.5)
-#l1 = Light(position=(-1.0,0.0,1.0), intensity=2.5)
 l2 = Light(position=(20.0, 20.0,-20.0), intensity=1.0)
 l3 = Light(position=(-20.0, 20.0,-20.0), intensity=1.0)
 

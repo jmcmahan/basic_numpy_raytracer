@@ -17,10 +17,6 @@ class Toolbox:
     def blit(self, pixels):
         """Input pixels is MxNx3 array of floats 0 to 1"""
 
-        # TODO: Make a better system here where this can run 
-        # and be updated by an external function like in
-        # the example. For now this will run the update 
-        # whenever you display something via blit
         
         running = True
         while running:
